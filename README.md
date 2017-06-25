@@ -4,6 +4,8 @@ Nuestro mapa de educación nacional incluye [un WFS abierto y disponible](http:/
 
 ![screen-wfs](img/mapa-educacion-wfs.png) 
 
+## Scripts
+
 Con este servicio es posible extraer listas geolocalizadas de instituciones educativas.  
 En el directorio scripts se incluyen herramientas para:
  - Objeter un SHP de +60.000 escuelas [VER SCRIPT](scripts/get-shapes.sh)
