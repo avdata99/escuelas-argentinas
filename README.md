@@ -9,9 +9,9 @@ Nuestro mapa de educación nacional incluye [un WFS abierto y disponible](http:/
 Con este servicio es posible extraer listas geolocalizadas de instituciones educativas.  
 En el directorio scripts se incluyen herramientas para:
  - Obtener un SHP de +60.000 escuelas [VER SCRIPT](scripts/get-shapes.sh)
- - Obtener un SHP de +60.000 escuelas [VER SCRIPT](scripts/get-escuelas.sh)
+ - Obtener un CSV de +60.000 escuelas [VER SCRIPT](scripts/get-escuelas.sh)
  - Obtener un CSV de +22.000 escuelas primarias [VER SCRIPT](scripts/get-escuelas-primarias.sh)
- - Obtener un SHP de +13.000 escuelas secundarias [VER SCRIPT](scripts/get-escuelas-secundarias.sh)
+ - Obtener un CSV de +13.000 escuelas secundarias [VER SCRIPT](scripts/get-escuelas-secundarias.sh)
 
 ## Datos
 
@@ -36,6 +36,12 @@ FID,gid,provincia,cueanexo,nombre,sector,estado_codigo,ambito,ndomicilio,cod_pos
     ambito_texto,the_geom,x,y,ubicacion
 ```
 
-Es un dataset muy útil. Tomando una versión resumida se elaboró un mapa
+Es un dataset muy útil. Tomando una versión resumida se elaboraron algunos mapas útiles.  
+
+Escuelas argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/303023ef-9cc2-48d8-a72c-341eb47afd3b/embed).  
+
+![primarias-por-sector](img/primarias-por-sector.png)
+
+
 
 
