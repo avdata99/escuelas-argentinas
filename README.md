@@ -13,6 +13,10 @@ En el directorio scripts se incluyen herramientas para:
  - Obtener un CSV de +22.000 escuelas primarias [VER SCRIPT](scripts/get-escuelas-primarias.sh)
  - Obtener un CSV de +13.000 escuelas secundarias [VER SCRIPT](scripts/get-escuelas-secundarias.sh)
 
+## Datasets
+
+Quedan subidos en la carpeta _datos_ versiones resumidas de los datasets para usar.  
+
 ## Datos
 
 Estas listas incluyen muchas más información que solo la geolocalización y el nombre. Informe sobre los servicios que se brindan (idiomas, bibliotecas, internet, etc).  
@@ -38,10 +42,14 @@ FID,gid,provincia,cueanexo,nombre,sector,estado_codigo,ambito,ndomicilio,cod_pos
 
 Es un dataset muy útil. Tomando una versión resumida se elaboraron algunos mapas útiles.  
 
+## Mapas
+
 Escuelas argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/303023ef-9cc2-48d8-a72c-341eb47afd3b/embed).  
 
 ![primarias-por-sector](img/primarias-por-sector.png)
 
+Escuelas argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/57e3d376-df28-4e5c-b668-64407a915731/embed).  
 
+![secundarias-por-sector](img/secundarias-por-sector.png)
 
 
