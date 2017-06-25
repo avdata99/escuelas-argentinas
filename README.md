@@ -1,5 +1,7 @@
 # Datos abiertos de escuelas argentinas
 
+Con información provista por @jazzido ([Donde voto?](https://github.com/jazzido/dondevoto))y @avilagas
+
 Nuestro mapa de educación nacional incluye [un WFS abierto y disponible](http://mapa.educacion.gob.ar/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage).  
 
 ![screen-wfs](img/mapa-educacion-wfs.png) 
