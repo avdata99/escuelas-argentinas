@@ -44,11 +44,15 @@ Es un dataset muy útil. Tomando una versión resumida se elaboraron algunos map
 
 ## Mapas
 
-Escuelas argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/303023ef-9cc2-48d8-a72c-341eb47afd3b/embed).  
+## Mapa de escuelas primarias
+
+Escuelas **primarias** argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/303023ef-9cc2-48d8-a72c-341eb47afd3b/embed).  
 
 ![primarias-por-sector](img/primarias-por-sector.png)
 
-Escuelas argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/57e3d376-df28-4e5c-b668-64407a915731/embed).  
+## Mapa de escuelas secundarias
+
+Escuelas **secundarias** argentinas por sector. [VER MAPA](https://hudson.carto.com/builder/57e3d376-df28-4e5c-b668-64407a915731/embed).  
 
 ![secundarias-por-sector](img/secundarias-por-sector.png)
 
